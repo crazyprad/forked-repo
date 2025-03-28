@@ -1,2 +1,2 @@
 Hi,
-This will demonstrations the forked repo
+This will demonstrate the forked repo in github
